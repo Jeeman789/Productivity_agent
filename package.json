@@ -1,0 +1,24 @@
+{
+  "name": "productivity_agent",
+  "version": "1.0.0",
+  "description": "An attempt at making an agent who can interact with raspberry pi and help increase my productivity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeeman789/Productivity_agent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Jeeman789/Productivity_agent/issues"
+  },
+  "homepage": "https://github.com/Jeeman789/Productivity_agent#readme",
+  "dependencies": {
+    "dotenv": "^18.0.3"
+  }
+}
